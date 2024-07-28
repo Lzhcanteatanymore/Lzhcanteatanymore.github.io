@@ -24,5 +24,5 @@ Research Interests
 
 Awards
 ======
-* Third prize of National Undergraduate Statistical Modeling Competition in Shaanxi province
-* Third prize of National College Student Market Research and Analysis Competition in Shaanxi province
+* Third prize of National Undergraduate Statistical Modeling Competition in Shaanxi province (2023)
+* Third prize of National College Student Market Research and Analysis Competition in Shaanxi province (2022)
