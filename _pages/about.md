@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Zihan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! My name is Zihan Lou. I'm a third year undergraduate student majoring in statistics from [School of Economics and Finance](http://sef.xjtu.edu.cn) at [Xi'an Jiaotong University](http://www.xjtu.edu.cn) under supervision of [Professor. Hua Liu](http://sef.xjtu.edu.cn/info/1086/18129.htm).
+Hi! This is Zihan Lou. I'm a third year undergraduate student majoring in statistics from [School of Economics and Finance](http://sef.xjtu.edu.cn) at [Xi'an Jiaotong University](http://www.xjtu.edu.cn) under supervision of [Professor. Hua Liu](http://sef.xjtu.edu.cn/info/1086/18129.htm).
 
 Research Interests
 ======
