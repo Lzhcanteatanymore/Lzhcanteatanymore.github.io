@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IMG_0324.PNG"
+  avatar           : "IMG_0324.PNG"
   name             : "Zihan Lou"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
