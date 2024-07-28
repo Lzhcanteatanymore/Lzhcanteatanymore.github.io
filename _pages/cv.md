@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 
@@ -16,15 +18,18 @@ Education
 
 Research experience
 ======
+
 *  Optimization for Functinal Data Analysis with SGD, Jun 2024 - present
   * Xi'an Jiaotong University
   * Duties includes: Coded with R to simulate the optimation method for functional data analysis with SGD algorithm
   * Supervisor: Prof. Hua Liu
 
+
 * Option pricing and hedging, Apr 2024 - Jun 2024
   * Xi'an Jiaotong University
   * Duties included: Simulated a historical option trades with Monte Carlo stochastic simulation method with the data gleaned, recreated CAO company financial crisis in 2003 precisely whose detailed data was not available to the public, interpreted the reason for the trade’s lose and manage the risk with delta neutral hedging method to control the lose successfully
   * Supervisor: Prof. Honggang Xue
+
 
 * Prediction of China’s modernization, Mar 2023 - Jun 2023
   * Xi'an Jiaotong University
@@ -36,6 +41,7 @@ the world
  
  Working experience
 ======
+
 * Summer 2024: Internship
   * Xi'an Statistics Bureau
   * Duties includes: Compilation of the secondary industry GDP table for the first half of 2024
