@@ -1,6 +1,8 @@
 ---
 title: "Applying SGD Algorithm to Functional Data"
-excerpt: "SGD fit compared with the ture function<br/><img src='/images/Rplot02.png'><br/><img src='/images/Rplot01.png'>"
+excerpt: "SGD fit compared with the ture function<br/><img src='/images/Rplot02.png'>
+Loss under different number of stochastic data<br/><img src='/images/Rplot01.png'>
+[code](https://github.com/Lzhcanteatanymore/FDA-with-SGD-optimization)"
 collection: portfolio
 ---
 
