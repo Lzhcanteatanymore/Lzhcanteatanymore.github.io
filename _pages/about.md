@@ -20,7 +20,7 @@ Research Interests
 * Functional Data Analysis
 * Statistical Machine Learning
 * Nonparametric regression
-* Timeseries Analysis
+* Time Series Analysis
 
 Awards
 ======
