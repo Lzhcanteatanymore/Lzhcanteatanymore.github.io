@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 
-* B.S. in Economics, Xi'an Jiaotong University, June 2025 (expected)
+* B.Econ. in Statistics, Xi'an Jiaotong University, June 2025 (expected)
 
 Research experience
 ======
