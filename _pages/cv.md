@@ -28,7 +28,7 @@ Research experience
 * Option pricing and hedging, Apr 2024 - Jun 2024
   * Xi'an Jiaotong University
   * Duties included: Simulating a historical option trades in method of Monte Carlo stochastic simulation with the gleaned data, recreating CAO company financial crisis scenario in 2003 precisely whose detailed data was not available to the public, interpreting the reason for the trade’s lose and manage the risk with delta neutral hedging method to control the lose successfully
-  * Supervisor: [Prof. Honggang Xue](http://sef.xjtu.edu.cn/info/1086/9392.htm)
+  * Supervisor: [Prof. Honggang Xue](http://sef.xjtu.edu.cn/info/1086/9346.htm)
 
 
 * Prediction of China’s modernization, Mar 2023 - Jun 2023
