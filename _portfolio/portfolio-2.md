@@ -17,3 +17,10 @@ this is the fit when I choose 50 stochastic data from the sample to optimization
 Above I use SGD to optimazation the nonparameter regression with each experiment I choose 50 stochastic data from the sample, now I want to compare the loss when the number of data I choose was different from 10, 50, 100, 500. In the end, I depict a figure to vitually reflect the loss in different number of stochastic sample                         
 <br/><img src='/images/Rplot01.png'>
 
+Imagine there is a fanctional data flow. Each time, we can capture 100 data samples, and we call it a data block. To simplify the analysis, I assume there is 1000 data blocks in total. In each block, I use SGD algorithm to fit the function. Theoratically, with the learning process, the fit will be better and better. 
+
+I draw a plot figure of 100000 samples(1000 blocks * 100 data samples)<br/><img src='/images/simulate.png'>
+
+After 1000 times learning, I draw a fit function on a certain data block <br/><img src='/images/fit.png'>
+
+To test whether the learning process can actually improve the efficiency and accuracy. I draw the fit errors in 1000 blocks. The error decreases through learning, and become stable aroud the 200th learning <br/><img src='/images/error.png'>
