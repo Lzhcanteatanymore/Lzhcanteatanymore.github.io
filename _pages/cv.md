@@ -21,7 +21,8 @@ Research experience
 
 * Optimization for Functinal Data Analysis with SGD, Jun 2024 - present
   * Xi'an Jiaotong University
-  * Duties includes: Coding with R to simulate the optimization method for functional data analysis with SGD algorithm
+  * Duties includes: Coding with R to simulate the optimization method for functional data analysis with SGD algorithm. Enhancing the SGD algorithm for online learning in functional data estimation, enabling efficient processing by dividing data into sub-blocks, which significantly improved the learning efficiency over time
+•
   * Supervisor: [Prof. Hua Liu](https://liuhuasufe.github.io)
 
 
