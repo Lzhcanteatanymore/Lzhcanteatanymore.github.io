@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page. This is Zihan Lou. I'm a third year undergraduate student majoring in statistics from [School of Economics and Finance](http://sef.xjtu.edu.cn) at [Xi'an Jiaotong University](http://www.xjtu.edu.cn) under supervision of [Prof. Hua Liu](https://liuhuasufe.github.io/).
+Welcome to my page. This is Zihan Lou. I'm a final-year undergraduate student majoring in statistics from [School of Economics and Finance](http://sef.xjtu.edu.cn) at [Xi'an Jiaotong University](http://www.xjtu.edu.cn) under supervision of [Prof. Hua Liu](https://liuhuasufe.github.io/).
 
 My research interests lie in the field of optimization and machine learning, especially applied optimization method and machine learning method to functional data analysis. I am doing researches about functional data analysis optimization with SGD(stochastic gradient descent) algorithms under supervision of [Prof. Hua liu](https://liuhuasufe.github.io/). Before that, I did some research about timeseries analysis. I applied timeseries analysis to predicting China's economy development and unemployment under supervison of [Prof. Hua Liu](https://liuhuasufe.github.io/) and [Prof. Cong Li](http://sef.xjtu.edu.cn/info/1086/9392.htm).
 
