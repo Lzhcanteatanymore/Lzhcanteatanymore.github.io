@@ -11,5 +11,5 @@ using the Stochastic Gradient Descent (SGD) algorithm. Compared to the Bootstrap
 accurately. For a functional linear regression:
 $$Y_{i} = \alpha + \int x_{i}(t)\beta(t)dt + \epsilon_{i}$$
 We can use basis expansion to represent $$\beta(t) = \sum_{l=1}^{d} B_{l}(t)\theta_{l} = \mathbb{B}^{\prime}\theta$$\\
-$\beta(t)$
+
 
