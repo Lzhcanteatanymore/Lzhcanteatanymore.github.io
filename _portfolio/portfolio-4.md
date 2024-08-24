@@ -10,6 +10,6 @@ which can be infeasible. To achieve fast estimation and inference for functional
 using the Stochastic Gradient Descent (SGD) algorithm. Compared to the Bootstrap method, the SGD method performs more efficiently and
 accurately. For a functional linear regression:
 $$Y_{i} = \alpha + \int x_{i}(t)\beta(t)dt + \epsilon_{i}$$
-We can use basis expansion to represent $\beta(t)$
-$$\beta(t) = \sum_{l=1}^{d} B_{l}(t)\theta_{l} = \mathbb{B}^{\prime}\theta$$
+We can use basis expansion to represent $$\beta(t) = \sum_{l=1}^{d} B_{l}(t)\theta_{l} = \mathbb{B}^{\prime}\theta$$\\
+$\beta(t)$
 
