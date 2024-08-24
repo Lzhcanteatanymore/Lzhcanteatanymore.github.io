@@ -53,7 +53,7 @@ Skills
   * python
 * Language
   * Chinese
-  * English(TOFELibt: R26/L28/S23/W21)
+  * English (TOFELibt: R26/L28/S23/W21)
 
 
 Service and leadership
