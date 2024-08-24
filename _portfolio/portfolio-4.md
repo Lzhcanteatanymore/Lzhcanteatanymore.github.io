@@ -1,3 +1,9 @@
+---
+title: "Fast Estimation and Inference of Functional Linear Regression with SGD"
+excerpt: "nothing"
+collection: portfolio
+---
+
 Functional data are widely used in many fields. When the sample size is extremely large, with tens of millions of observations and high 
 dimensionality, traditional estimation and inference methods often require storing large datasets and computing the inverse of matrices, 
 which can be infeasible. To achieve fast estimation and inference for functional linear regression, we developed an online learning method 
