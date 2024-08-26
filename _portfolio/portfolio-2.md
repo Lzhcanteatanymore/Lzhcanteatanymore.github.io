@@ -1,8 +1,8 @@
 ---
 title: "Fast Inference of Functional Linear Regression with SGD for Ultra-Large Dataset"
-excerpt: "[demonstration](https://lzhcanteatanymore.github.io/files/Demo.pdf)
-[code](https://github.com/Lzhcanteatanymore/FDA-with-SGD-optimization)
-The error decreases through learning<br/><img src='/images/error.png'>comparison of computing times between our method and the Bootstrap method<br/><img src='/images/Comparison.png'>
+excerpt: "[demonstration](https://lzhcanteatanymore.github.io/files/Demo.pdf)<br/>
+[code](https://github.com/Lzhcanteatanymore/FDA-with-SGD-optimization)<br/>
+The error decreases through learning<br/><img src='/images/error.png'>comparison of computing times between our method and the Bootstrap method<br/><img src='/images/Comparison.png'>comparison of coverage rate between our method and the Bootstrap method<br/><img src='/images/coverage rate.png'>
 "
 collection: portfolio
 ---
@@ -17,4 +17,4 @@ To test whether the learning process can actually improve the efficiency and acc
 To advance our research, we apply the SGD algorithm to Functional Linear Regression, particularly to address scenarios involving ultra-large datasets where traditional methods may be infeasible due to memory constraints and slow computation. Our method demonstrates superior efficiency and accuracy compared to other widely used approaches, such as the Bootstrap method, in similar situations.
 
 You can find additional [demonstrations](https://lzhcanteatanymore.github.io/files/Demo.pdf) of the algorithm and theories, including how to update the learning rate and penalized parameters, here.
-Here is a comparison of computing times between our method and the Bootstrap method. As the dataset size increases to ultra-large scales, our method demonstrates significantly faster performance.<br/><img src='/images/Comparison.png'>
+Here is a comparison of computing times between our method and the Bootstrap method. As the dataset size increases to ultra-large scales, our method demonstrates significantly faster performance, and more accuracy.<br/><img src='/images/Comparison.png'><br/><img src='/images/coverage rate.png'>
