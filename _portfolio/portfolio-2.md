@@ -17,4 +17,5 @@ To test whether the learning process can actually improve the efficiency and acc
 
 To advance our research, we apply the SGD algorithm to Functional Linear Regression, particularly to address scenarios involving ultra-large datasets where traditional methods may be infeasible due to memory constraints and slow computation. Our method demonstrates superior efficiency and accuracy compared to other widely used approaches, such as the Bootstrap method, in similar situations.
 
+You can find more [demonstrations](https://lzhcanteatanymore.github.io/files/Demo.pdf) about algorithm and theories including how to update learning rate and penalized parameters here.
 Here is a comparison of computing times between our method and the Bootstrap method. As the dataset size increases to ultra-large scales, our method demonstrates significantly faster performance.<br/><img src='/images/Comparison.png'>
