@@ -7,9 +7,8 @@ The error decreases through learning<br/><img src='/images/error.png'>comparison
 collection: portfolio
 ---
 
-I write some [codes](https://github.com/Lzhcanteatanymore/FDA-with-SGD-optimization) with R to apply SGD algorithm to functional data analysis, and compare the fit errors to find the best parametor.
 
-To start with, first, I simulate the original function as y = sin(x) + 0.5 * sin(3 * x) + sigma. Then with Fourier basis functions, I choose stochastic data from the sample and calculate the gradient, and make the parameter descent with the gradient.
+To start with, first, I simulate the original function as y = sin(x) + 0.5 * sin(3 * x) + sigma. Then with Fourier basis functions to fit it, I choose stochastic data from the sample and calculate the gradient, and make the parameter descent with the gradient.
 
 Imagine there is a fanctional data flow. Each time, we can capture 100 data samples, and we call it a data block. To simplify the analysis, I assume there is 1000 data blocks in total. In each block, I use SGD algorithm to fit the function. Theoratically, with the learning process, the fit will be better and better. 
 
