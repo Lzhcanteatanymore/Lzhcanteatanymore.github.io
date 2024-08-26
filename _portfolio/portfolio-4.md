@@ -1,6 +1,6 @@
 ---
 title: "Fast Estimation and Inference of Functional Linear Regression with SGD"
-excerpt: "nothing"
+excerpt: "Updating, Coming soon"
 collection: portfolio
 ---
 
