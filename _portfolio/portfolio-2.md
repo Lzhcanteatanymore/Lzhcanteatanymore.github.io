@@ -1,5 +1,5 @@
 ---
-title: "Applying SGD Algorithm to Functional Data"
+title: "Fast Inference of Functional Linear Regression with SGD for Ultra-Large Dataset"
 excerpt: "[demonstration](https://lzhcanteatanymore.github.io/files/Demo.pdf)
 [code](https://github.com/Lzhcanteatanymore/FDA-with-SGD-optimization)
 The error decreases through learning<br/><img src='/images/error.png'>comparison of computing times between our method and the Bootstrap method<br/><img src='/images/Comparison.png'>
