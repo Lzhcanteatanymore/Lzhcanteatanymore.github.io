@@ -1,6 +1,6 @@
 ---
 title: "STAT: 3510"
-collection: teaching
+collection: TA
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Iowa, Department of Statistics and Actuarial Science"
