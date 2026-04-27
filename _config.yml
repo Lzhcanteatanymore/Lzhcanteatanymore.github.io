@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Xi'an, China"
+locale                   : "Iowa City, USA"
 title                    : "Zihan Lou"
 title_separator          : "-"
 name                     : &name "Zihan Lou"
@@ -24,9 +24,9 @@ author:
   avatar           : "IMG_9065.PNG"
   name             : "Zihan Lou（娄子涵）"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Student applying for Ph.D"
-  location         : "Xi'an China"
-  employer         : "Xi'an Jiaotong University"
+  bio              : "First Year Ph.D Student"
+  location         : "Iowa City, USA"
+  employer         : "University of Iowa"
   uri              : # URL
   email            : "lzhpeach@gmail.com" 
 
