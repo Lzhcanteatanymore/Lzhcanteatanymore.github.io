@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "STAT: 1020"
 collection: Teaching Assistant
 type: "Workshop"
 permalink: /teaching/2026-spring-teaching-1
